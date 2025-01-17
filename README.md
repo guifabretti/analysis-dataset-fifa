@@ -12,3 +12,8 @@ Este repositório contém as análises realizadas com os datasets do **FIFA 23**
   - Identificação de jogadores com habilidades parecidas, mas com menor custo.  
 
 Explore o repositório para acessar os notebooks, gráficos e insights gerados durante o projeto!  
+
+#
+
+### Resultado do calculo euclidiano:
+![eafc25_resultado](https://github.com/user-attachments/assets/340718bd-4520-4781-a9ef-d5ea74fe1f7e)
